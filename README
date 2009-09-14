@@ -9,6 +9,7 @@ Runtime requirements:
   libgcc1-4.3.2-2
   libglib2.0_0-2.20.5-1
   python-2.5.4-10
+  python-clutter-1.0.0-1
   python-gobject2.0-2.18.0-1
   python-gst0.10-0.10.16-1
 
