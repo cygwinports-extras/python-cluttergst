@@ -1,0 +1,5 @@
+category: Python
+requires: libclutter-gst0.10_0 libgcc1 libglib2.0_0 python python-gobject2.0 python-gst0.10
+sdesc: "Python Clutter-GStreamer bindings"
+ldesc: "This package provides Python bindings for the Clutter-GStreamer
+integration library."
